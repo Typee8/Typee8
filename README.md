@@ -24,5 +24,5 @@ I'm taking part in mentoring program which helps me acquire necessery skills to 
 ### [Tooltips and Content List with Javascript (Chapter 5/20)](https://github.com/Typee8/Tooltips-and-Content-List-with-Javascript)
 [![Tooltips and Content List with Javascript](https://github.com/Typee8/Tooltips-and-Content-List-with-Javascript/blob/main/README-assets/task-js-dom-elements.gif)](https://typee8.github.io/Tooltips-and-Content-List-with-Javascript/)
 
-### [Image gallery in JS (Chapter 6/20)(https://github.com/Typee8/Image-gallery-in-JS)
+### [Image gallery in JS (Chapter 6/20)](https://github.com/Typee8/Image-gallery-in-JS)
 [![Image gallry in JS](https://github.com/Typee8/Image-gallery-in-JS/blob/main/README-assets/task-js-events.png)](https://typee8.github.io/Image-gallery-in-JS/)
