@@ -1,25 +1,11 @@
-### Hi there 👋
-Mentee: [DEVMENTOR.PL](https://devmentor.pl/mentoring-javascript)<br>
-Currently: Putting all my effort to become Front-end Developer.<br>
+# Hi, I'm Wojtek Jasiak!
+:mortar_board: *Mentee: [DEVMENTOR.PL](https://devmentor.pl/mentoring-javascript)*<br>
+:rocket: *Currently: Putting all my efforts to become Front-end Developer.*<br>
 
-Check my journey in the developer's world!
+I'm taking part in mentoring program which helps me acquire necessery skills to land my first job as Junior Front-end Developer.<br>
 
-&#9000 
+:sparkles: Check my journey in the developer's world! :sparkles:
+
+<html, css>
 
 <js>
-
-
-<!--
-**Typee8/Typee8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
