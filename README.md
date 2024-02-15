@@ -19,10 +19,10 @@ I'm taking part in mentoring program which helps me acquire necessery skills to 
 ![JS](./assets/icons8-js-96.png)
 
 ### [Browser calculator in Javascript (Chapter 4/20)](https://github.com/Typee8/Browser-calculator-in-Javascript)
-[![Browser calculator in Javascript](https://github.com/Typee8/Browser-calculator-in-Javascript/blob/main/README-assets/task-js-basics.png)](https://typee8.github.io/Browser-calculator-in-Javascript/)
+[![Browser calculator in Javascript](https://github.com/Typee8/Browser-calculator-in-Javascript/blob/main/README-assets/task-js-basics.png)](https://github.com/Typee8/Browser-calculator-in-Javascript)
 
 ### [Tooltips and Content List with Javascript (Chapter 5/20)](https://github.com/Typee8/Tooltips-and-Content-List-with-Javascript)
-[![Tooltips and Content List with Javascript](https://github.com/Typee8/Tooltips-and-Content-List-with-Javascript/blob/main/README-assets/task-js-dom-elements.gif)](https://typee8.github.io/Tooltips-and-Content-List-with-Javascript/)
+[![Tooltips and Content List with Javascript](https://github.com/Typee8/Tooltips-and-Content-List-with-Javascript/blob/main/README-assets/task-js-dom-elements.gif)](https://github.com/Typee8/Tooltips-and-Content-List-with-Javascript)
 
 ### [Image gallery in JS (Chapter 6/20)](https://github.com/Typee8/Image-gallery-in-JS)
-[![Image gallry in JS](https://github.com/Typee8/Image-gallery-in-JS/blob/main/README-assets/task-js-events.png)](https://typee8.github.io/Image-gallery-in-JS/)
+[![Image gallry in JS](https://github.com/Typee8/Image-gallery-in-JS/blob/main/README-assets/task-js-events.png)](https://github.com/Typee8/Image-gallery-in-JS)
