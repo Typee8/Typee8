@@ -1,6 +1,13 @@
 ### Hi there 👋
-Mentee: [DEVMENTOR.PL](https://devmentor.pl/mentoring-javascript)
-Currently: Putting all effort to become Front-end Developer.
+Mentee: [DEVMENTOR.PL](https://devmentor.pl/mentoring-javascript)<br>
+Currently: Putting all my effort to become Front-end Developer.<br>
+
+Check my journey in the developer's world!
+
+&#9000 
+
+<js>
+
 
 <!--
 **Typee8/Typee8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
