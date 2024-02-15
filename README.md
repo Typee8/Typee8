@@ -1,9 +1,9 @@
 # Hi, I'm Wojtek Jasiak!
-<p float="left>
 :mortar_board: *Mentee: [DEVMENTOR.PL](https://devmentor.pl/mentoring-javascript)* :mortar_board: <br>
-:rocket: *Currently: Putting all my efforts to become Front-end Developer.* :rocket:<br>
+<p float="left">
+  ![octocat](https://github.com/Typee8/Typee8/blob/main/assets/my-octocat.png)
 </p>
-![octocat](https://github.com/Typee8/Typee8/blob/main/assets/my-octocat.png)
+:rocket: *Currently: Putting all my efforts to become Front-end Developer.* :rocket:<br>
 
 I'm taking part in mentoring program which helps me acquire necessery skills to land my first job as Junior Front-end Developer.<br>
 
