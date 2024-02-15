@@ -1,5 +1,5 @@
 # Hi, I'm Wojtek Jasiak!
-<header>
+<h1>
 <p>:mortar_board: Mentee: [DEVMENTOR.PL](https://devmentor.pl/mentoring-javascript) :mortar_board: <br>
 :rocket: Currently: Putting all my efforts to become Front-end Developer. :rocket: <br>
 </p>
@@ -7,7 +7,7 @@
 <p>
 I'm taking part in mentoring program which helps me acquire necessery skills to land my first job as Junior Front-end Developer.
 </p>
-</header>
+</h1>
 ---
 
 ## :sparkles: Check my journey in the developer's world! :sparkles:
