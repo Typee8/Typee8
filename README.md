@@ -1,7 +1,7 @@
 # Hi, I'm Wojtek Jasiak!
 <div style="display: flex; flex-direction: row;">
-:mortar_board: *Mentee: [DEVMENTOR.PL](https://devmentor.pl/mentoring-javascript)* :mortar_board: <br>
-:rocket: *Currently: Putting all my efforts to become Front-end Developer.* :rocket:<br>
+<p style="font-style: italic" :mortar_board: Mentee: [DEVMENTOR.PL](https://devmentor.pl/mentoring-javascript) :mortar_board: </p>
+<p style="font-style: italic" :rocket: Currently: Putting all my efforts to become Front-end Developer. :rocket: </p>
 <img float="right" src="https://github.com/Typee8/Typee8/blob/main/assets/my-octocat-350x350.png" width="25%" />
 </div>
 
