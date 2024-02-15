@@ -7,7 +7,7 @@
 <p>
 I'm taking part in mentoring program which helps me acquire necessery skills to land my first job as Junior Front-end Developer.
 </p>
-</header>
+</header><br>
 ---
 
 ## :sparkles: Check my journey in the developer's world! :sparkles:
