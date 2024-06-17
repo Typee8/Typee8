@@ -26,4 +26,4 @@ I'm taking part in mentoring program which helps me acquire necessery skills to 
 [![Image gallry in JS](https://github.com/Typee8/Image-gallery-in-JS/blob/main/README-assets/task-js-events.png)](https://github.com/Typee8/Image-gallery-in-JS)
 
 ### [JS Forms (Chapter 7/20)](https://github.com/Typee8/JS-Forms)
-[![JS Forms](https://github.com/Typee8/JS-Forms/blob/main/README-assets/project-img.png)
+![JS Forms](https://github.com/Typee8/JS-Forms/blob/main/README-assets/project-img.png)
