@@ -1,6 +1,4 @@
 # Hi, I'm Wojtek Jasiak!
-<img align="right" src="https://github.com/Typee8/Typee8/blob/main/assets/my-octocat-350x350.png" width="15%" />
-
 *:mortar_board: Mentee: [DEVMENTOR.PL](https://devmentor.pl/mentoring-javascript) :mortar_board:* <br>
 *:rocket: Currently: Putting all my efforts to become Front-end Developer. :rocket:* <br>
 
@@ -26,3 +24,6 @@ I'm taking part in mentoring program which helps me acquire necessery skills to 
 
 ### [Image gallery in JS (Chapter 6/20)](https://github.com/Typee8/Image-gallery-in-JS)
 [![Image gallry in JS](https://github.com/Typee8/Image-gallery-in-JS/blob/main/README-assets/task-js-events.png)](https://github.com/Typee8/Image-gallery-in-JS)
+
+### [JS Forms (Chapter 7/20)](https://github.com/Typee8/JS-Forms)
+[![JS Forms](https://github.com/Typee8/JS-Forms/blob/main/README-assets/project-img.png)
