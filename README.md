@@ -27,3 +27,6 @@ I'm taking part in mentoring program which helps me acquire necessery skills to 
 
 ### [JS Forms (Chapter 7/20)](https://github.com/Typee8/JS-Forms)
 [![JS Forms](https://github.com/Typee8/JS-Forms/blob/main/README-assets/project-img.png)](https://github.com/Typee8/JS-Forms)
+
+### [ES6+ (Chapter 8/20)](https://github.com/Typee8/ES6-mentoring-project)
+[![ES6+](https://github.com/Typee8/ES6-mentoring-project/blob/main/README-assets/project-img.png)](https://github.com/Typee8/ES6-mentoring-project)
