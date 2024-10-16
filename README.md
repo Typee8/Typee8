@@ -33,3 +33,6 @@ I'm taking part in mentoring program which helps me acquire necessery skills to 
 
 ### [API communication and fetch() (Chapter 9/20)](https://github.com/Typee8/API-communication-and-fetch-)
 [![API communication and fetch()](https://github.com/Typee8/API-communication-and-fetch-/blob/main/README-assets/project-img.png)](https://github.com/Typee8/API-communication-and-fetch-)
+
+### [React-Components (Chapter 12/20)](https://github.com/Typee8/React-Components)
+[![React-Components](https://github.com/Typee8/React-Components/blob/master/README-assets/project-img.png)](https://github.com/Typee8/React-Components)
