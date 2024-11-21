@@ -6,9 +6,9 @@
 
 [![React-Components](https://github.com/Typee8/React-Components/blob/master/README-assets/project-img.png)](https://github.com/Typee8/React-Components)
 
-### [Travel Agency Site (JavaScript)](https://github.com/Typee8/API-communication-and-fetch-)
+### [Travel Agency Site (JavaScript)](https://github.com/Typee8/Travel-Agency-Site-JavaScript)
 
-[![API communication and fetch()](https://github.com/Typee8/API-communication-and-fetch-/blob/main/README-assets/project-img.png)](https://github.com/Typee8/API-communication-and-fetch-)
+[![API communication and fetch()](https://github.com/Typee8/Travel-Agency-Site-JavaScript/blob/main/README-assets/project-img.png)](https://github.com/Typee8/Travel-Agency-Site-JavaScript)
 
 ### [Applab RWD landing page (HTML, CSS)](https://github.com/Typee8/Applab-RWD-landing-page)
 
