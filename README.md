@@ -10,7 +10,7 @@
 
 [![API communication and fetch()](https://github.com/Typee8/API-communication-and-fetch-/blob/main/README-assets/project-img.png)](https://github.com/Typee8/API-communication-and-fetch-)
 
-### [Applab RWD landing page](https://github.com/Typee8/Applab-RWD-landing-page)
+### [Applab RWD landing page (HTML, CSS)](https://github.com/Typee8/Applab-RWD-landing-page)
 
 [![Applab landing page](https://github.com/Typee8/Applab-RWD-landing-page/blob/main/README-assets/Applab.svg)](https://github.com/Typee8/Applab-RWD-landing-page)
 
