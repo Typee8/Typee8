@@ -2,9 +2,9 @@
 
 ## :mortar_board: Check out some of my projects I've completed through the [Devmentor.pl](https://devmentor.pl/mentoring-javascript) mentoring program. :mortar_board:
 
-### [Task Timer Planner (React)](https://github.com/Typee8/React-Components)
+### [Task Timer Planner (React)](https://github.com/Typee8/Task-Timer-Panel)
 
-[![React-Components](https://github.com/Typee8/React-Components/blob/master/README-assets/project-img.png)](https://github.com/Typee8/React-Components)
+[![React-Components](https://github.com/Typee8/Task-Timer-Panel/blob/master/README-assets/project-img.png)](https://github.com/Typee8/Task-Timer-Panel)
 
 ### [Travel Agency Site (JavaScript)](https://github.com/Typee8/Travel-Agency-Site-JavaScript)
 
