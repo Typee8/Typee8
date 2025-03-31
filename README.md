@@ -1,6 +1,10 @@
 # Hi, I'm Wojtek Jasiak!
 
-## :mortar_board: Check out some of my projects I've completed through the [Devmentor.pl](https://devmentor.pl/mentoring-javascript) mentoring program. :mortar_board:
+## ✨ Check out some of my projects I've done. 🔥
+
+### [Kanban Board (React)](https://github.com/Typee8/kanban-board-ts)
+
+[![Kanban-Board](https://github.com/Typee8/kanban-board-ts/blob/main/README-assets/project-img.png)](https://github.com/Typee8/kanban-board-ts)
 
 ### [Task Timer Planner (React)](https://github.com/Typee8/Task-Timer-Panel)
 
