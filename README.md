@@ -1,6 +1,6 @@
 # Hi, I'm Wojtek Jasiak!
 
-## ✨ Check out some of my projects I've done. 🔥
+## ✨ Check out some of my projects. 🔥
 
 ### [Kanban Board (React)](https://github.com/Typee8/kanban-board-ts)
 
