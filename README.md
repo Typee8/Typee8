@@ -43,3 +43,5 @@
 ### [ES6+](https://github.com/Typee8/ES6-mentoring-project)
 
 [![ES6+](https://github.com/Typee8/ES6-mentoring-project/blob/main/README-assets/project-img.png)](https://github.com/Typee8/ES6-mentoring-project)
+
+[Github QR Code](https://drive.google.com/file/d/18tF6TTFXxSx8-prin1A4TAvXNBVI7Hew/view?usp=drivesdk)
